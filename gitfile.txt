@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<!-- your webpage info goes here -->
+
+    <title>Hello World</title>
+	
+	<meta name="author" content=“Siddiq” />
+	<meta name="description" content="" />
+
+<!-- you should always add your stylesheet (css) in the head tag so that it starts loading before the page html is being displayed -->	
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	
+</head>
+<body background=/Users/Shaidara/Desktop/image.jpeg>
+<!-- webpage content goes here in the body -->
+
+<img src="/Users/Shaidara/Desktop/haidara.jpg" alt=“the adorable twins” style="width:200px;height:100px;">	
+
+                                  <div id="page">
+		<div id="logo">
+			<h1><a href="/" id="logoLink">Welcome to the DevOps class of 2018..AWSOME!!!!</a></h1>
+		</div>
+		<div id="nav">
+			<ul>
+				<li><a href="#/home.html">Home</a></li>
+				<li><a href="#/about.html">About</a></li>
+				<li><a href="#/contact.html">Contact</a></li>
+			</ul>	
+		</div>
+		<div id="content">
+			<h2>Home</h2>
+			<p>
+				This is my first webpage! I was able to code all the HTML and CSS in order to make it. Watch out DevOps class of 2018 here I come!
+			</p>
+			<p> 
+				I can use my skills here to create websites for my business, my friends and family, my C.V, blog or articles. As well as any games or more experiment stuff (which is what the web is really all about). 
+			</p>
+		</div>
+		<div id="footer">
+			<p>
+				Webpage made by <a href="/" target="_blank”>[siddiq haidara]</a>
+			</p>
+		</div>
+	</div>
+
+</body>
+</html>
